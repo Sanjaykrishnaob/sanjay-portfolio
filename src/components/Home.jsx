@@ -12,7 +12,6 @@ const Home = () => {
             I’m <span className="text-[#fe5617]">Sanjay Krishna OB</span>
           </h1>
           <h2 className="text-2xl md:text-3xl font-bold flex gap-2">
-            <span className="text-[#fe5617]">I’m</span>
             <Typewriter
               options={{
                 strings: [
