@@ -24,6 +24,7 @@ import { GrDocumentThreat } from "react-icons/gr";
 import { GiHammerBreak } from "react-icons/gi";
 import { BsMicrosoft } from "react-icons/bs";
 import { SiGooglecloudstorage } from "react-icons/si";
+import { GoFileBinary } from "react-icons/go";
 
 
 
@@ -112,6 +113,10 @@ const About = () => {
             <div className="flex flex-col items-center space-y-2">
               <BsGraphUp size={40} className="text-[#0d6efd]" />
               <span className="font-bold">Threat and Vulnerability Management</span>
+            </div>
+            <div className="flex flex-col items-center space-y-2">
+            <GoFileBinary size={40} className="text-[#0d6efd]" />
+              <span className="font-bold">C Language</span>
             </div>
           </div>
         </div>
