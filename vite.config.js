@@ -5,7 +5,6 @@ export default defineConfig({
   plugins: [react()],
   optimizeDeps: {
     include: ['react-icons'],
-    base: "/sanjay-portfolio",
   },
   
 });
