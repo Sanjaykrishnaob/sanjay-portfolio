@@ -51,7 +51,7 @@ const Home = () => {
           {/* Button */}
           <div className="bg-[#fe5617] px-5 py-2 rounded-2xl font-bold">
             <a
-              href="https://drive.google.com/file/d/1PBY5nDb3jUHk2VzL3khZhhQo-pqNLiPy/view?usp=sharing" // Replace this with your resume link
+              href="https://drive.google.com/file/d/1ZqRFzn_du6ExBRIzMZ9K1PT9vCGZ0K5X/view?usp=sharing" // Replace resume link
               target="_blank"
               rel="noopener noreferrer"
               className="text-white"
